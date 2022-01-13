@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![nft-card](images\nft-card-preview.png)
+![nft-card](nft-card-challenge/images/nft-card-preview.png)
 
 
 
