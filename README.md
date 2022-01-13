@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/nft-card-preview.png)
+![nft card preview](images/nft-card-preview.png)
+
 
 
 
